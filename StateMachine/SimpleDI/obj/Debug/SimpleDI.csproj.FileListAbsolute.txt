@@ -1,0 +1,8 @@
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\bin\Debug\SimpleDI.exe.config
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\bin\Debug\SimpleDI.exe
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\bin\Debug\SimpleDI.pdb
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\obj\Debug\SimpleDI.csproj.AssemblyReference.cache
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\obj\Debug\SimpleDI.csproj.SuggestedBindingRedirects.cache
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\obj\Debug\SimpleDI.csproj.CoreCompileInputs.cache
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\obj\Debug\SimpleDI.exe
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\SimpleDI\obj\Debug\SimpleDI.pdb
