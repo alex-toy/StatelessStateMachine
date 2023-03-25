@@ -1,0 +1,11 @@
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\bin\Debug\StateMachine.exe.config
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\bin\Debug\StateMachine.exe
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\bin\Debug\StateMachine.pdb
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\obj\Debug\StateMachine.csproj.AssemblyReference.cache
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\obj\Debug\StateMachine.csproj.SuggestedBindingRedirects.cache
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\obj\Debug\StateMachine.csproj.CoreCompileInputs.cache
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\obj\Debug\StateMachine.exe
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\obj\Debug\StateMachine.pdb
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\bin\Debug\Stateless.dll
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\bin\Debug\Stateless.xml
+C:\source\CsharpDesignPatterns\StatelessStateMachine\StateMachine\StateMachine\obj\Debug\StateMachine.csproj.CopyComplete
